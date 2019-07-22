@@ -114,7 +114,8 @@ Sonoff Pow R2
     GPIO12, Relay and Red LED,
     GPIO13, Blue LED (inverted),
 
-See :doc:`/components/sensor/cse7766` for measuring power.
+See :doc:`/components/sensor/cse7766` for measuring power with CSE7766 chip.
+See :doc:`/components/sensor/hlw8012.html` for measuring power with CSE7759B chip.
 
 Sonoff S20, Sonoff S22, Sonoff S26
 ----------------------------------
